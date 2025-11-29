@@ -393,7 +393,7 @@ HEADER
   }
 
 .quality__work--text, .quality__img {
-    inline-size: 50%;
+    inline-size: 100%;
 }
 
 
@@ -1141,6 +1141,7 @@ SMALL PHONES, TABLETS, LARGE PHONES
     margin-right: 24px;
     
 }
+
 
 
 
